@@ -1,1 +1,1 @@
-# lab1_DataBase
+# Lab2 of DataBase
